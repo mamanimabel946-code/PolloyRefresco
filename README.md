@@ -100,7 +100,7 @@ Copiar código
 └── public/
     ├── css/
     ├── js/
-    └── icons/
+    └── icons/ <br>
 👤 Autor
  Est: Karen Santos Mamani
 Desarrollador del sistema
