@@ -1,7 +1,15 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://i.imgur.com/ZnaDkBG.png" width="400" alt="Laravel Logo"></a></p>
 
 ---
+<a>REQUISITOS</a>
+PHP	8.2 o superior <br>
+Composer	2.x <br>
+Laravel	11.x <br>
+MySQL	8.0 <br>
+Node.js	20.x <br>
+NPM	10.x <br>
+Servidor	Artisan / XAMPP / Laragon <br>
+Editor	Visual Studio Code <br>
 
 Las  Tecnologías utilizadas son los siguientes:
 
@@ -28,16 +36,16 @@ Su interfaz es sencilla y responsiva, diseñada con Laravel y Bootstrap, e inclu
 
 # ⚙️ Instalación y configuración
 
-### 1️⃣ Clonar el repositorio
+<h2>Clonar el repositorio</h2> 
 ```bash
 git clone https://github.com/tu-usuario/nombre-del-proyecto.git
 cd nombre-del-proyecto
-2️⃣ Instalar dependencias
+<h2>Instlar</h2> 
 bash
 Copiar código
 composer install
 npm install
-3️⃣ Crear y configurar el archivo .env
+<h2>Crear y configurar el archivo .env</h2> 
 Copia el archivo de ejemplo:
 
 bash
@@ -59,15 +67,15 @@ DB_PORT=3306
 DB_DATABASE=nombre_bd
 DB_USERNAME=root
 DB_PASSWORD=
-4️⃣ Generar la clave de aplicación
+<h2>Clonar la clave de direccion</h2> 
 bash
 Copiar código
 php artisan key:generate
-5️⃣ Ejecutar migraciones
+<h2>ejecutar migraciones</h2> 
 bash
 Copiar código
 php artisan migrate
-6️⃣ Iniciar el servidor local
+<h2>Iniciar el sertvidor web</h2> 
 bash
 Copiar código
 php artisan serve
