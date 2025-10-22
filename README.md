@@ -12,7 +12,7 @@ Las  Tecnologías utilizadas son los siguientes:
 - [Bootstrap 5](https://getbootstrap.com/) *(opcional)*
 - [Vite](https://vitejs.dev/) *(si lo usas para frontend)*
 
-  Descripción breve de un Sistema de Ventas:
+  <h1> Descripcion de mi proyecto SISTEMA DE VENTAS </h1>
 
 El Sistema de Ventas es una aplicación web desarrollada para gestionar de forma eficiente los productos, clientes y transacciones de una empresa. Permite registrar ventas, controlar el inventario, agregar o eliminar artículos, y generar reportes básicos de las operaciones.
 Su interfaz es sencilla y responsiva, diseñada con Laravel y Bootstrap, e incluye un sistema de login para proteger el acceso de los usuarios autorizados.
@@ -97,9 +97,7 @@ Copiar código
  Est: Karen Santos Mamani
 Desarrollador del sistema
 de ventas 
-
 🧾 Licencia
-
 Este proyecto está bajo la licencia MIT — puedes usarlo, modificarlo y distribuirlo libremente.
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
